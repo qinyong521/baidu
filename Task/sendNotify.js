@@ -29,7 +29,7 @@ let IGOT_PUSH_KEY = '';
 
 let txnewsNotifyControl = false;//(默认腾讯新闻脚本推送通知)
 
-let youthNotifyControl = false;//(默认中青脚本推送通知)
+let youthNotifyControl = true;//(默认中青脚本推送通知)
 
 let dsjNotifyControl = true;//(默认电视家脚本推送不通知)
 
